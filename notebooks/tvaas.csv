@@ -1,0 +1,147 @@
+District Number,District Name,Overall Composite,Literacy Composite,Numeracy Composite,Literacy and Numeracy Composite,Science Composite,Social Studies Composite
+10,Anderson County,3,2,5,3,1.0,3.0
+100,Carter County,5,3,5,5,4.0,3.0
+101,Elizabethton,3,2,5,4,1.0,3.0
+11,Clinton,5,5,5,5,3.0,4.0
+110,Cheatham County,5,5,5,5,5.0,2.0
+12,Oak Ridge,5,5,5,5,5.0,5.0
+120,Chester County,3,3,2,3,2.0,5.0
+130,Claiborne County,2,3,3,3,3.0,2.0
+140,Clay County,1,1,1,1,1.0,1.0
+150,Cocke County,1,1,1,1,3.0,2.0
+151,Newport,5,3,4,3,5.0,5.0
+160,Coffee County,5,5,4,5,3.0,1.0
+161,Manchester,4,3,3,3,3.0,3.0
+162,Tullahoma,5,3,5,5,3.0,4.0
+170,Crockett County,1,1,5,3,2.0,1.0
+171,Alamo,1,1,3,1,1.0,2.0
+172,Bells,5,4,5,5,2.0,
+180,Cumberland County,1,3,5,4,4.0,1.0
+190,Davidson County,5,5,5,5,5.0,3.0
+20,Bedford County,5,5,3,5,3.0,3.0
+200,Decatur County,1,1,2,1,2.0,1.0
+210,DeKalb County,3,4,3,3,1.0,5.0
+220,Dickson County,4,3,1,1,5.0,5.0
+230,Dyer County,5,3,5,5,5.0,5.0
+231,Dyersburg,5,3,5,5,3.0,5.0
+240,Fayette County Public Schools,1,1,1,1,1.0,1.0
+250,Fentress County,4,4,5,5,3.0,2.0
+260,Franklin County,2,3,1,2,3.0,1.0
+271,Humboldt City Schools,3,4,2,3,2.0,3.0
+272,Milan,5,3,5,5,5.0,5.0
+273,Trenton,3,4,1,1,3.0,5.0
+274,Bradford,4,3,3,3,3.0,5.0
+275,Gibson Co Sp Dist,5,4,5,5,5.0,5.0
+280,Giles County,1,1,1,1,2.0,1.0
+290,Grainger County,1,3,2,2,3.0,2.0
+30,Benton County,3,1,3,2,4.0,3.0
+300,Greene County,5,5,5,5,5.0,5.0
+301,Greeneville,5,5,5,5,5.0,5.0
+310,Grundy County,3,3,2,3,3.0,3.0
+320,Hamblen County,5,5,5,5,3.0,5.0
+330,Hamilton County,5,5,2,4,4.0,5.0
+340,Hancock County,3,3,4,4,2.0,3.0
+350,Hardeman County Schools,3,5,3,4,3.0,1.0
+360,Hardin County,1,1,5,3,1.0,1.0
+370,Hawkins County,1,1,1,1,3.0,1.0
+371,Rogersville,5,3,5,5,4.0,3.0
+380,Haywood County,1,1,3,1,4.0,1.0
+390,Henderson County,3,3,4,3,3.0,1.0
+391,Lexington,5,4,4,5,5.0,5.0
+40,Bledsoe County,5,4,5,5,1.0,1.0
+400,Henry County,3,3,5,4,3.0,3.0
+401,Paris,5,3,2,3,3.0,5.0
+410,Hickman County,1,1,1,1,1.0,1.0
+420,Houston County,1,1,1,1,3.0,3.0
+430,Humphreys County,1,1,3,1,3.0,1.0
+440,Jackson County,5,5,2,4,5.0,4.0
+450,Jefferson County,5,5,5,5,5.0,5.0
+460,Johnson County,1,3,1,1,3.0,1.0
+470,Knox County,5,1,5,1,5.0,5.0
+480,Lake County,1,1,2,1,2.0,3.0
+490,Lauderdale County,1,1,3,1,1.0,1.0
+50,Blount County,5,5,4,5,3.0,2.0
+500,Lawrence County,3,1,5,2,3.0,5.0
+51,Alcoa,5,4,5,5,5.0,4.0
+510,Lewis County,1,1,1,1,1.0,5.0
+52,Maryville,5,3,4,4,5.0,5.0
+520,Lincoln County,1,2,1,1,1.0,5.0
+521,Fayetteville,5,3,5,5,5.0,3.0
+530,Loudon County,1,3,2,2,1.0,2.0
+531,Lenoir City,1,2,1,1,1.0,1.0
+540,McMinn County,2,3,1,1,1.0,5.0
+541,Athens,3,5,3,4,1.0,2.0
+542,Etowah,3,1,5,3,1.0,3.0
+550,McNairy County,1,1,3,2,2.0,1.0
+560,Macon County,1,1,2,1,1.0,3.0
+570,Madison County,3,2,4,3,5.0,1.0
+580,Marion County,1,3,1,1,3.0,3.0
+581,Richard City,4,3,3,3,3.0,3.0
+590,Marshall County,1,1,2,1,1.0,1.0
+60,Bradley County,1,3,1,1,1.0,1.0
+600,Maury County,3,3,1,1,5.0,3.0
+61,Cleveland,3,5,2,3,2.0,1.0
+610,Meigs County,2,3,1,1,5.0,1.0
+620,Monroe County,1,1,1,1,1.0,4.0
+621,Sweetwater,5,3,5,5,3.0,4.0
+630,Montgomery County,2,3,1,1,5.0,5.0
+640,Moore County,5,4,4,4,5.0,3.0
+650,Morgan County,1,1,1,1,1.0,1.0
+660,Obion County,3,3,3,3,3.0,3.0
+661,Union City,5,5,3,5,3.0,5.0
+670,Overton County,5,4,5,5,5.0,1.0
+680,Perry County,1,2,2,2,3.0,1.0
+690,Pickett County,1,1,1,1,2.0,1.0
+70,Campbell County,1,1,1,1,1.0,1.0
+700,Polk County,1,2,1,1,2.0,3.0
+710,Putnam County,5,5,5,5,3.0,1.0
+720,Rhea County,3,2,5,3,2.0,4.0
+721,Dayton,4,5,3,4,3.0,4.0
+730,Roane County,4,3,5,5,5.0,1.0
+740,Robertson County,1,1,1,1,1.0,1.0
+750,Rutherford County,5,5,5,5,5.0,5.0
+751,Murfreesboro,4,2,5,3,4.0,3.0
+760,Scott County,1,2,1,1,2.0,1.0
+761,Oneida,1,3,1,1,3.0,1.0
+770,Sequatchie County,5,3,5,4,5.0,4.0
+780,Sevier County,2,5,5,5,1.0,1.0
+792,Memphis-Shelby County Schools,5,5,1,1,5.0,3.0
+793,Arlington,2,5,1,3,1.0,3.0
+794,Bartlett,5,5,2,5,5.0,5.0
+795,Collierville,5,4,5,5,5.0,5.0
+796,Germantown,5,5,3,5,5.0,4.0
+797,Lakeland,3,3,2,3,2.0,4.0
+798,Millington Municipal Schools,3,3,1,2,3.0,3.0
+80,Cannon County,1,1,1,1,2.0,1.0
+800,Smith County,1,2,1,1,1.0,1.0
+810,Stewart County,1,2,4,3,1.0,3.0
+820,Sullivan County,5,5,5,5,1.0,3.0
+821,Bristol,5,5,5,5,5.0,5.0
+822,Kingsport,5,1,5,3,5.0,5.0
+830,Sumner County,2,1,4,1,3.0,5.0
+840,Tipton County,1,1,1,1,1.0,5.0
+850,Trousdale County,5,3,5,5,5.0,5.0
+860,Unicoi County,1,2,1,1,3.0,3.0
+870,Union County,1,1,1,1,1.0,1.0
+880,Van Buren County,2,3,5,5,1.0,1.0
+890,Warren County,1,1,1,1,1.0,1.0
+900,Washington County,5,5,5,5,3.0,5.0
+901,Johnson City,5,5,5,5,5.0,5.0
+910,Wayne County,1,2,1,1,1.0,1.0
+92,Hollow Rock - Bruceton,1,4,1,2,3.0,1.0
+920,Weakley County,3,1,5,4,3.0,1.0
+93,Huntingdon Special School District,1,1,2,1,1.0,5.0
+930,White County,4,2,3,3,1.0,5.0
+94,McKenzie,1,1,5,3,1.0,3.0
+940,Williamson County,5,3,4,3,5.0,5.0
+941,Franklin SSD,4,2,4,3,5.0,4.0
+95,South Carroll,1,1,1,1,3.0,1.0
+950,Wilson County,5,3,5,5,5.0,5.0
+951,Lebanon,5,5,5,5,5.0,1.0
+961,Alvin C York Institute,2,2,2,1,4.0,
+963,Tennessee School for Blind,2,2,3,2,,
+964,Tennessee Schools for the Deaf,3,3,3,3,4.0,3.0
+97,West Carroll Sp Dist,2,2,3,3,2.0,3.0
+970,Department Of Children's Services Education Division,3,2,4,3,3.0,2.0
+985,Achievement School District,2,3,3,3,5.0,1.0
+987,Tennessee Public Charter School Commission,5,5,5,5,5.0,5.0
