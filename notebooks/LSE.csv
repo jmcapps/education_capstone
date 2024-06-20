@@ -1,0 +1,976 @@
+year,system,system_name,school,school_name,test,subject,grade,student_group,participation_rate,enrolled,tested,valid_tests,n_below,n_approaching,n_met_expectations,n_exceeded_expectations,pct_below,pct_approaching,pct_met_expectations,pct_exceeded_expectations,pct_met_exceeded
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,All Students,100,94,94,93,20,36,32,5,21.5,38.7,34.4,5.4,39.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Asian,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Black or African American,100,14,14,14,2,5,6,1,14.3,35.7,42.9,7.1,50
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Black/Hispanic/Native American,100,61,61,60,**,**,**,**,**,**,**,**,31.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Economically Disadvantaged,100,30,30,30,6,10,11,3,20,33.3,36.7,10,46.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,English Learner Transitional 1-4,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,English Learners,100,20,20,19,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,English Learners with Transitional 1-4,100,29,29,28,**,**,**,**,**,**,**,**,14.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Female,100,49,49,49,**,**,**,**,**,**,**,**,38.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Foster,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Hispanic,100,46,46,45,**,**,**,**,**,**,**,**,26.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Male,100,45,45,44,11,15,15,3,25,34.1,34.1,6.8,40.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Non-Black/Hispanic/Native American,100,33,33,33,2,13,15,3,6,39.4,45.5,9.1,54.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Non-Economically Disadvantaged,100,64,64,63,**,**,**,**,**,**,**,**,36.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Non-English Learners/Transitional 1-4,100,65,65,65,10,22,28,5,15.4,33.8,43.1,7.7,50.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Non-Students with Disabilities,100,84,84,83,13,33,32,5,15.6,39.8,38.6,6,44.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Students with Active Duty Military Parents,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Students with Disabilities,100,10,10,10,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,Super Subgroup,100,81,81,80,19,33,24,4,23.7,41.3,30,5,35
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,10,White,100,24,24,24,2,8,12,2,8.4,33.3,50,8.3,58.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,All Students,100,94,94,93,20,36,32,5,21.5,38.7,34.4,5.4,39.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Asian,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Black or African American,100,14,14,14,2,5,6,1,14.3,35.7,42.9,7.1,50
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Black/Hispanic/Native American,100,61,61,60,**,**,**,**,**,**,**,**,31.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Economically Disadvantaged,100,30,30,30,6,10,11,3,20,33.3,36.7,10,46.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,English Learner Transitional 1-4,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,English Learners,100,20,20,19,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,English Learners with Transitional 1-4,100,29,29,28,**,**,**,**,**,**,**,**,14.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Female,100,49,49,49,**,**,**,**,**,**,**,**,38.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Foster,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Hispanic,100,46,46,45,**,**,**,**,**,**,**,**,26.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Male,100,45,45,44,11,15,15,3,25,34.1,34.1,6.8,40.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Non-Black/Hispanic/Native American,100,33,33,33,2,13,15,3,6,39.4,45.5,9.1,54.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Non-Economically Disadvantaged,100,64,64,63,**,**,**,**,**,**,**,**,36.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Non-English Learners/Transitional 1-4,100,65,65,65,10,22,28,5,15.4,33.8,43.1,7.7,50.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Non-Students with Disabilities,100,84,84,83,13,33,32,5,15.6,39.8,38.6,6,44.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Students with Active Duty Military Parents,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Students with Disabilities,100,10,10,10,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,Super Subgroup,100,81,81,80,19,33,24,4,23.7,41.3,30,5,35
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Biology I,All Grades,White,100,24,24,24,2,8,12,2,8.4,33.3,50,8.3,58.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,11,All Students,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,11,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,11,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,11,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,11,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,11,Non-Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,11,Super Subgroup,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,11,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,All Students,100,96,96,96,**,**,**,**,**,**,**,**,18.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Asian,100,13,13,13,**,**,**,**,**,**,**,**,15.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Black or African American,100,16,16,16,1,11,3,1,6.1,68.8,18.8,6.3,25
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Black/Hispanic/Native American,100,62,62,62,**,**,**,**,**,**,**,**,19.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Economically Disadvantaged,100,27,27,27,**,**,**,**,**,**,**,**,14.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,English Learner Transitional 1-4,100,13,13,13,**,**,**,**,**,**,**,**,23.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,English Learners,100,14,14,14,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,English Learners with Transitional 1-4,100,27,27,27,**,**,**,**,**,**,**,**,11.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Female,100,54,54,54,**,**,**,**,**,**,**,**,20.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Hispanic,100,46,46,46,**,**,**,**,**,**,**,**,17.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Male,100,42,42,42,**,**,**,**,**,**,**,**,16.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Non-Black/Hispanic/Native American,100,34,34,34,**,**,**,**,**,**,**,**,17.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Non-Economically Disadvantaged,100,69,69,69,**,**,**,**,**,**,**,**,20.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Non-English Learners/Transitional 1-4,100,69,69,69,**,**,**,**,**,**,**,**,21.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Non-Students with Disabilities,100,91,91,91,**,**,**,**,**,**,**,**,19.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,Super Subgroup,100,81,81,81,**,**,**,**,**,**,**,**,18.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,9,White,100,21,21,21,**,**,**,**,**,**,**,**,19
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,All Students,100,97,97,97,**,**,**,**,**,**,**,**,18.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Asian,100,13,13,13,**,**,**,**,**,**,**,**,15.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Black or African American,100,16,16,16,1,11,3,1,6.1,68.8,18.8,6.3,25
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Black/Hispanic/Native American,100,62,62,62,**,**,**,**,**,**,**,**,19.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Economically Disadvantaged,100,28,28,28,**,**,**,**,**,**,**,**,14.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,English Learner Transitional 1-4,100,13,13,13,**,**,**,**,**,**,**,**,23.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,English Learners,100,14,14,14,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,English Learners with Transitional 1-4,100,27,27,27,**,**,**,**,**,**,**,**,11.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Female,100,54,54,54,**,**,**,**,**,**,**,**,20.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Hispanic,100,46,46,46,**,**,**,**,**,**,**,**,17.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Male,100,43,43,43,**,**,**,**,**,**,**,**,16.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Non-Black/Hispanic/Native American,100,35,35,35,**,**,**,**,**,**,**,**,17.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Non-Economically Disadvantaged,100,69,69,69,**,**,**,**,**,**,**,**,20.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Non-English Learners/Transitional 1-4,100,70,70,70,**,**,**,**,**,**,**,**,21.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Non-Students with Disabilities,100,92,92,92,**,**,**,**,**,**,**,**,19.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,Super Subgroup,100,82,82,82,**,**,**,**,**,**,**,**,18.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English I,All Grades,White,100,22,22,22,**,**,**,**,**,**,**,**,18.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,All Students,100,95,95,95,**,**,**,**,**,**,**,**,54.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Asian,100,10,10,10,**,**,**,**,**,**,**,**,60
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Black or African American,100,15,15,15,2,6,6,1,13.3,40,40,6.7,46.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Black/Hispanic/Native American,100,60,60,60,**,**,**,**,**,**,**,**,48.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Economically Disadvantaged,100,29,29,29,**,**,**,**,**,**,**,**,48.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,English Learner Transitional 1-4,100,10,10,10,**,**,**,**,**,**,**,**,50
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,English Learners,100,12,12,12,**,**,**,**,**,**,**,**,8.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,English Learners with Transitional 1-4,100,22,22,22,**,**,**,**,**,**,**,**,27.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Female,100,53,53,53,**,**,**,**,**,**,**,**,62.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Foster,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Hispanic,100,44,44,44,**,**,**,**,**,**,**,**,50
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Male,100,42,42,42,**,**,**,**,**,**,**,**,45.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Non-Black/Hispanic/Native American,100,35,35,35,**,**,**,**,**,**,**,**,65.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Non-Economically Disadvantaged,100,66,66,66,**,**,**,**,**,**,**,**,57.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Non-English Learners/Transitional 1-4,100,73,73,73,**,**,**,**,**,**,**,**,63
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Non-Students with Disabilities,100,85,85,85,**,**,**,**,**,**,**,**,60
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Students with Active Duty Military Parents,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Students with Disabilities,100,10,10,10,**,**,**,**,**,**,**,**,10
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,Super Subgroup,100,82,82,82,**,**,**,**,**,**,**,**,51.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,10,White,100,25,25,25,**,**,**,**,**,**,**,**,68
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,All Students,*,8,8,8,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Black/Hispanic/Native American,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,English Learners,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,English Learners with Transitional 1-4,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Female,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Hispanic,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Male,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Non-Black/Hispanic/Native American,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Non-Economically Disadvantaged,*,6,6,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Non-Students with Disabilities,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,Super Subgroup,*,8,8,8,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,11,White,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,All Students,100,103,103,103,**,**,**,**,**,**,**,**,50.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Asian,100,10,10,10,**,**,**,**,**,**,**,**,60
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Black or African American,100,16,16,16,3,6,6,1,18.7,37.5,37.5,6.3,43.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Black/Hispanic/Native American,100,65,65,65,**,**,**,**,**,**,**,**,44.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Economically Disadvantaged,100,31,31,31,**,**,**,**,**,**,**,**,45.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,English Learner Transitional 1-4,100,10,10,10,**,**,**,**,**,**,**,**,50
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,English Learners,100,19,19,19,**,**,**,**,**,**,**,**,5.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,English Learners with Transitional 1-4,100,29,29,29,**,**,**,**,**,**,**,**,20.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Female,100,58,58,58,**,**,**,**,**,**,**,**,56.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Foster,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Hispanic,100,48,48,48,**,**,**,**,**,**,**,**,45.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Male,100,45,45,45,4,22,16,3,8.8,48.9,35.6,6.7,42.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Non-Black/Hispanic/Native American,100,38,38,38,**,**,**,**,**,**,**,**,60.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Non-Economically Disadvantaged,100,72,72,72,**,**,**,**,**,**,**,**,52.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Non-English Learners/Transitional 1-4,100,74,74,74,**,**,**,**,**,**,**,**,62.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Non-Students with Disabilities,100,92,92,92,**,**,**,**,**,**,**,**,55.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Students with Active Duty Military Parents,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Students with Disabilities,100,11,11,11,**,**,**,**,**,**,**,**,9.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,Super Subgroup,100,90,90,90,**,**,**,**,**,**,**,**,46.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,English II,All Grades,White,100,28,28,28,**,**,**,**,**,**,**,**,60.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,All Students,*,7,7,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Asian,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Black/Hispanic/Native American,*,6,6,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Economically Disadvantaged,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,English Learners,*,6,6,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,English Learners with Transitional 1-4,*,6,6,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Foster,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Hispanic,*,5,5,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Male,*,6,6,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Non-Economically Disadvantaged,*,4,4,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Non-Students with Disabilities,*,2,2,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Students with Active Duty Military Parents,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,10,Super Subgroup,*,7,7,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,All Students,100,27,27,27,**,**,**,**,**,**,**,**,77.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Asian,*,6,6,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Black or African American,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Black/Hispanic/Native American,100,13,13,13,1,2,7,3,7.7,15.4,53.8,23.1,76.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Economically Disadvantaged,100,10,10,10,1,2,4,3,10,20,40,30,70
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,English Learner Transitional 1-4,*,6,6,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,English Learners with Transitional 1-4,*,6,6,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Female,100,11,11,11,**,**,**,**,**,**,**,**,63.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Hispanic,*,8,8,8,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Male,100,16,16,16,1,1,8,6,6.2,6.3,50,37.5,87.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Non-Black/Hispanic/Native American,100,14,14,14,**,**,**,**,**,**,**,**,78.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Non-Economically Disadvantaged,100,17,17,17,**,**,**,**,**,**,**,**,82.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Non-English Learners/Transitional 1-4,100,21,21,21,**,**,**,**,**,**,**,**,81
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Non-Students with Disabilities,100,27,27,27,**,**,**,**,**,**,**,**,77.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,Super Subgroup,100,21,21,21,**,**,**,**,**,**,**,**,76.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,8,White,*,8,8,8,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,All Students,99,91,90,90,**,**,**,**,**,**,**,**,6.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Asian,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Black or African American,100,13,13,13,10,1,1,1,76.9,7.7,7.7,7.7,15.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Black/Hispanic/Native American,98,63,62,62,**,**,**,**,**,**,**,**,6.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Economically Disadvantaged,100,26,26,26,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,English Learner Transitional 1-4,100,12,12,12,**,**,**,**,**,**,**,**,16.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,English Learners,97,33,32,32,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,English Learners with Transitional 1-4,98,45,44,44,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Female,98,49,48,48,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Hispanic,98,50,49,49,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Male,100,42,42,42,**,**,**,**,**,**,**,**,9.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Non-Black/Hispanic/Native American,100,28,28,28,**,**,**,**,**,**,**,**,7.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Non-Economically Disadvantaged,98,65,64,64,**,**,**,**,**,**,**,**,7.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Non-English Learners/Transitional 1-4,100,46,46,46,**,**,**,**,**,**,**,**,8.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Non-Students with Disabilities,99,84,83,83,**,**,**,**,**,**,**,**,7.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Students with Disabilities,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,Super Subgroup,99,81,80,80,**,**,**,**,**,**,**,**,6.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,9,White,100,19,19,19,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,All Students,99,125,124,123,78,18,16,11,63.5,14.6,13,8.9,22
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Asian,100,16,16,16,6,3,4,3,37.4,18.8,25,18.8,43.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Black or African American,100,19,19,19,12,2,3,2,63.2,10.5,15.8,10.5,26.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Black/Hispanic/Native American,99,82,81,80,58,8,9,5,72.4,10,11.3,6.3,17.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Economically Disadvantaged,100,39,39,39,25,6,4,4,64,15.4,10.3,10.3,20.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,English Learner Transitional 1-4,100,18,18,18,8,4,4,2,44.5,22.2,22.2,11.1,33.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,English Learners,97,39,38,37,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,English Learners with Transitional 1-4,98,57,56,55,**,**,**,**,**,**,**,**,10.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Female,98,61,60,60,40,11,6,3,66.7,18.3,10,5,15
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Foster,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Hispanic,98,63,62,61,**,**,**,**,**,**,**,**,14.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Male,100,64,64,63,38,7,10,8,60.3,11.1,15.9,12.7,28.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Non-Black/Hispanic/Native American,100,43,43,43,20,10,7,6,46.4,23.3,16.3,14,30.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Non-Economically Disadvantaged,99,86,85,84,53,12,12,7,63.1,14.3,14.3,8.3,22.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Non-English Learners/Transitional 1-4,100,68,68,68,34,13,12,9,50.1,19.1,17.6,13.2,30.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Non-Students with Disabilities,99,113,112,111,66,18,16,11,59.5,16.2,14.4,9.9,24.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Students with Active Duty Military Parents,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Students with Disabilities,100,12,12,12,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,Super Subgroup,99,109,108,107,72,14,13,8,67.3,13.1,12.1,7.5,19.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math I,All Grades,White,100,27,27,27,14,7,3,3,51.9,25.9,11.1,11.1,22.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,All Students,100,87,87,87,**,**,**,**,**,**,**,**,6.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Asian,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Black or African American,100,13,13,13,**,**,**,**,**,**,**,**,7.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Black/Hispanic/Native American,100,55,55,55,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Economically Disadvantaged,100,26,26,26,**,**,**,**,**,**,**,**,11.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,English Learner Transitional 1-4,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,English Learners,100,16,16,16,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,English Learners with Transitional 1-4,100,25,25,25,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Female,100,46,46,46,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Hispanic,100,41,41,41,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Male,100,41,41,41,**,**,**,**,**,**,**,**,9.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Non-Black/Hispanic/Native American,100,32,32,32,**,**,**,**,**,**,**,**,12.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Non-Economically Disadvantaged,100,61,61,61,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Non-English Learners/Transitional 1-4,100,62,62,62,**,**,**,**,**,**,**,**,9.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Non-Students with Disabilities,100,77,77,77,**,**,**,**,**,**,**,**,6.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Students with Disabilities,100,10,10,10,**,**,**,**,**,**,**,**,10
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,Super Subgroup,100,76,76,76,**,**,**,**,**,**,**,**,6.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,10,White,100,23,23,23,**,**,**,**,**,**,**,**,17.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,All Students,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Black/Hispanic/Native American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Non-Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Non-Students with Disabilities,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,11,Super Subgroup,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,All Students,*,4,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Black/Hispanic/Native American,*,4,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,English Learner Transitional 1-4,*,3,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,English Learners with Transitional 1-4,*,3,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Hispanic,*,3,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Male,*,4,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Non-Economically Disadvantaged,*,4,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Non-Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Students with Disabilities,*,3,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,12,Super Subgroup,*,4,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,All Students,100,22,22,22,**,**,**,**,**,**,**,**,50
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Asian,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Black or African American,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Black/Hispanic/Native American,100,13,13,13,**,**,**,**,**,**,**,**,69.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Economically Disadvantaged,*,6,6,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Female,100,12,12,12,**,**,**,**,**,**,**,**,25
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Hispanic,100,10,10,10,**,**,**,**,**,**,**,**,60
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Male,100,10,10,10,**,**,**,**,**,**,**,**,80
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Non-Black/Hispanic/Native American,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Non-Economically Disadvantaged,100,16,16,16,**,**,**,**,**,**,**,**,50
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Non-English Learners/Transitional 1-4,100,21,21,21,**,**,**,**,**,**,**,**,47.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Non-Students with Disabilities,100,22,22,22,**,**,**,**,**,**,**,**,50
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,Super Subgroup,100,17,17,17,1,6,9,1,5.9,35.3,52.9,5.9,58.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,9,White,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,All Students,99,115,114,114,**,**,**,**,**,**,**,**,14.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Asian,100,13,13,13,**,**,**,**,**,**,**,**,15.4
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Black or African American,100,18,18,18,**,**,**,**,**,**,**,**,22.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Black/Hispanic/Native American,99,74,73,73,**,**,**,**,**,**,**,**,15.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Economically Disadvantaged,100,33,33,33,**,**,**,**,**,**,**,**,18.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,English Learner Transitional 1-4,92,13,12,12,**,**,**,**,**,**,**,**,8.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,English Learners,100,17,17,17,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,English Learners with Transitional 1-4,97,30,29,29,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Female,100,59,59,59,**,**,**,**,**,**,**,**,8.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Hispanic,98,55,54,54,**,**,**,**,**,**,**,**,13
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Male,98,56,55,55,**,**,**,**,**,**,**,**,21.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Non-Black/Hispanic/Native American,100,41,41,41,**,**,**,**,**,**,**,**,14.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Non-Economically Disadvantaged,99,82,81,81,**,**,**,**,**,**,**,**,13.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Non-English Learners/Transitional 1-4,100,85,85,85,**,**,**,**,**,**,**,**,18.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Non-Students with Disabilities,100,102,102,102,**,**,**,**,**,**,**,**,15.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Students with Disabilities,92,13,12,12,**,**,**,**,**,**,**,**,8.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,Super Subgroup,99,99,98,98,**,**,**,**,**,**,**,**,15.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math II,All Grades,White,100,28,28,28,**,**,**,**,**,**,**,**,14.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,All Students,100,12,12,12,**,**,**,**,**,**,**,**,91.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Asian,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Black or African American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Black/Hispanic/Native American,*,9,9,9,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Female,*,8,8,8,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Hispanic,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Male,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Non-Black/Hispanic/Native American,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Non-Economically Disadvantaged,100,10,10,10,**,**,**,**,**,**,**,**,90
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Non-English Learners/Transitional 1-4,100,11,11,11,**,**,**,**,**,**,**,**,90.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Non-Students with Disabilities,100,12,12,12,**,**,**,**,**,**,**,**,91.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,Super Subgroup,100,10,10,10,**,**,**,**,**,**,**,**,90
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,10,White,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,All Students,100,58,58,58,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Asian,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Black or African American,100,14,14,14,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Black/Hispanic/Native American,100,45,45,45,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Economically Disadvantaged,100,19,19,19,**,**,**,**,**,**,**,**,5.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,English Learner Transitional 1-4,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,English Learners,100,15,15,15,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,English Learners with Transitional 1-4,100,18,18,18,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Female,100,39,39,39,**,**,**,**,**,**,**,**,5.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Hispanic,100,30,30,30,**,**,**,**,**,**,**,**,6.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Male,100,19,19,19,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Non-Black/Hispanic/Native American,100,13,13,13,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Non-Economically Disadvantaged,100,39,39,39,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Non-English Learners/Transitional 1-4,100,40,40,40,**,**,**,**,**,**,**,**,5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Non-Students with Disabilities,100,55,55,55,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Students with Disabilities,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,Super Subgroup,100,53,53,53,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,11,White,100,12,12,12,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,All Students,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Black/Hispanic/Native American,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Hispanic,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Male,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Non-English Learners/Transitional 1-4,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Non-Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Students with Disabilities,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,12,Super Subgroup,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,All Students,100,73,73,73,46,14,8,5,63,19.2,11,6.8,17.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Asian,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Black or African American,100,17,17,17,**,**,**,**,**,**,**,**,5.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Black/Hispanic/Native American,100,57,57,57,36,11,6,4,63.2,19.3,10.5,7,17.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Economically Disadvantaged,100,22,22,22,**,**,**,**,**,**,**,**,13.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,English Learner Transitional 1-4,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,English Learners,100,15,15,15,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,English Learners with Transitional 1-4,100,20,20,20,**,**,**,**,**,**,**,**,5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Female,100,47,47,47,26,11,6,4,55.3,23.4,12.8,8.5,21.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Hispanic,100,39,39,39,25,5,5,4,64.1,12.8,12.8,10.3,23.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Male,100,26,26,26,**,**,**,**,**,**,**,**,11.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Non-Black/Hispanic/Native American,100,16,16,16,10,3,2,1,62.4,18.8,12.5,6.3,18.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Non-Economically Disadvantaged,100,51,51,51,30,11,6,4,58.8,21.6,11.8,7.8,19.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Non-English Learners/Transitional 1-4,100,53,53,53,31,10,7,5,58.5,18.9,13.2,9.4,22.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Non-Students with Disabilities,100,68,68,68,41,14,8,5,60.2,20.6,11.8,7.4,19.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,Super Subgroup,100,66,66,66,42,13,7,4,63.6,19.7,10.6,6.1,16.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,Integrated Math III,All Grades,White,100,14,14,14,9,3,1,1,64.4,21.4,7.1,7.1,14.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,All Students,100,80,80,80,19,27,26,8,23.7,33.8,32.5,10,42.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Asian,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Black or African American,100,16,16,16,3,7,4,2,18.7,43.8,25,12.5,37.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Black/Hispanic/Native American,100,56,56,56,10,21,20,5,17.9,37.5,35.7,8.9,44.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Economically Disadvantaged,100,24,24,24,3,12,5,4,12.5,50,20.8,16.7,37.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,English Learner Transitional 1-4,*,6,6,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,English Learners,100,18,18,18,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,English Learners with Transitional 1-4,100,24,24,24,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Female,100,53,53,53,10,17,20,6,18.9,32.1,37.7,11.3,49.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Hispanic,100,39,39,39,7,13,16,3,18,33.3,41,7.7,48.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Male,100,27,27,27,9,10,6,2,33.4,37,22.2,7.4,29.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Non-Black/Hispanic/Native American,100,24,24,24,9,6,6,3,37.5,25,25,12.5,37.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Non-Economically Disadvantaged,100,56,56,56,16,15,21,4,28.6,26.8,37.5,7.1,44.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Non-English Learners/Transitional 1-4,100,56,56,56,5,18,25,8,9,32.1,44.6,14.3,58.9
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Non-Students with Disabilities,100,75,75,75,16,27,24,8,21.3,36,32,10.7,42.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,Super Subgroup,100,69,69,69,19,24,20,6,27.5,34.8,29,8.7,37.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,11,White,100,21,21,21,8,6,5,2,38.1,28.6,23.8,9.5,33.3
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,All Students,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Black/Hispanic/Native American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Non-English Learners/Transitional 1-4,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Non-Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,12,Super Subgroup,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,All Students,100,82,82,82,19,28,27,8,23.2,34.1,32.9,9.8,42.7
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,American Indian or Alaska Native,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Asian,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Black or African American,100,17,17,17,3,7,5,2,17.6,41.2,29.4,11.8,41.2
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Black/Hispanic/Native American,100,58,58,58,10,22,21,5,17.3,37.9,36.2,8.6,44.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Economically Disadvantaged,100,24,24,24,3,12,5,4,12.5,50,20.8,16.7,37.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,English Learner Transitional 1-4,*,6,6,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,English Learners,100,18,18,18,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,English Learners with Transitional 1-4,100,24,24,24,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Female,100,54,54,54,10,18,20,6,18.6,33.3,37,11.1,48.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Hispanic,100,40,40,40,7,14,16,3,17.5,35,40,7.5,47.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Male,100,28,28,28,9,10,7,2,32.2,35.7,25,7.1,32.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Non-Black/Hispanic/Native American,100,24,24,24,9,6,6,3,37.5,25,25,12.5,37.5
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Non-Economically Disadvantaged,100,58,58,58,16,16,22,4,27.6,27.6,37.9,6.9,44.8
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Non-English Learners/Transitional 1-4,100,58,58,58,5,19,26,8,8.6,32.8,44.8,13.8,58.6
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Non-Students with Disabilities,100,76,76,76,16,28,24,8,21.1,36.8,31.6,10.5,42.1
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Students with Disabilities,*,6,6,6,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,Super Subgroup,100,71,71,71,19,25,21,6,26.7,35.2,29.6,8.5,38
+2023,190,Davidson County,8013,LEAD Southeast,EOC,US History,All Grades,White,100,21,21,21,8,6,5,2,38.1,28.6,23.8,9.5,33.3
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,All Students,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Black/Hispanic/Native American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Hispanic,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Non-Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Students with Disabilities,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,10,Super Subgroup,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,All Students,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Black/Hispanic/Native American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Hispanic,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Non-Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Students with Disabilities,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Biology I,All Grades,Super Subgroup,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,All Students,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,11,Super Subgroup,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,All Students,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,6,Super Subgroup,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,All Students,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Black/Hispanic/Native American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,English Learners with Transitional 1-4,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Male,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Students with Disabilities,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,Super Subgroup,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,8,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,All Students,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Black/Hispanic/Native American,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Economically Disadvantaged,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,English Learner Transitional 1-4,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,English Learners with Transitional 1-4,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Hispanic,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Male,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,Super Subgroup,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,ELA,All Grades,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,All Students,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,11,Super Subgroup,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,All Students,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,6,Super Subgroup,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,All Students,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Black/Hispanic/Native American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,English Learners with Transitional 1-4,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Male,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Students with Disabilities,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,Super Subgroup,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,8,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,All Students,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Black/Hispanic/Native American,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Economically Disadvantaged,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,English Learner Transitional 1-4,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,English Learners with Transitional 1-4,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Female,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Hispanic,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Male,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,Super Subgroup,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Math,All Grades,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,All Students,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,6,Super Subgroup,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,All Students,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Black/Hispanic/Native American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,English Learners with Transitional 1-4,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Male,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Students with Disabilities,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,Super Subgroup,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,8,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,All Students,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Black/Hispanic/Native American,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,English Learner Transitional 1-4,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,English Learners with Transitional 1-4,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Hispanic,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Male,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Students with Disabilities,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,Super Subgroup,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Science,All Grades,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,All Students,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,English Learners with Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,Male,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,Students with Disabilities,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,6,Super Subgroup,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,All Students,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Black/Hispanic/Native American,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Economically Disadvantaged,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,English Learner Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,English Learners with Transitional 1-4,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Hispanic,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Male,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Students with Disabilities,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,Super Subgroup,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,8,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,All Students,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Black or African American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Black/Hispanic/Native American,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,English Learner Transitional 1-4,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,English Learners,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,English Learners with Transitional 1-4,*,3,3,3,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Hispanic,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Male,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Non-Black/Hispanic/Native American,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Non-Economically Disadvantaged,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Non-English Learners/Transitional 1-4,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Students with Disabilities,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,Super Subgroup,*,4,4,4,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,MSAA/Alt-Science/Social Studies,Social Studies,All Grades,White,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,All Students,100,93,93,93,**,**,**,**,**,**,**,**,19.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,American Indian or Alaska Native,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Black or African American,100,13,13,13,**,**,**,**,**,**,**,**,38.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Black/Hispanic/Native American,100,63,63,63,**,**,**,**,**,**,**,**,19
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Economically Disadvantaged,100,26,26,26,**,**,**,**,**,**,**,**,7.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,English Learner Transitional 1-4,100,17,17,17,**,**,**,**,**,**,**,**,29.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,English Learners,100,33,33,33,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,English Learners with Transitional 1-4,100,50,50,50,**,**,**,**,**,**,**,**,12
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Female,100,46,46,46,**,**,**,**,**,**,**,**,21.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Hispanic,100,48,48,48,**,**,**,**,**,**,**,**,14.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Male,100,47,47,47,**,**,**,**,**,**,**,**,17
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Non-Black/Hispanic/Native American,100,30,30,30,**,**,**,**,**,**,**,**,20
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Non-Economically Disadvantaged,100,67,67,67,**,**,**,**,**,**,**,**,23.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Non-English Learners/Transitional 1-4,100,43,43,43,**,**,**,**,**,**,**,**,27.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Non-Students with Disabilities,100,85,85,85,**,**,**,**,**,**,**,**,20
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Students with Disabilities,*,8,8,8,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,Super Subgroup,100,85,85,85,**,**,**,**,**,**,**,**,15.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,5,White,100,23,23,23,**,**,**,**,**,**,**,**,21.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,All Students,100,113,113,109,**,**,**,**,**,**,**,**,11
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Asian,100,11,11,10,**,**,**,**,**,**,**,**,40
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Black or African American,100,27,27,27,**,**,**,**,**,**,**,**,7.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Black/Hispanic/Native American,100,79,79,76,**,**,**,**,**,**,**,**,7.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Economically Disadvantaged,100,48,48,48,**,**,**,**,**,**,**,**,14.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,English Learner Transitional 1-4,100,18,18,18,**,**,**,**,**,**,**,**,16.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,English Learners,100,42,42,38,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,English Learners with Transitional 1-4,100,60,60,56,**,**,**,**,**,**,**,**,5.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Female,100,60,60,58,**,**,**,**,**,**,**,**,13.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Hispanic,100,52,52,49,**,**,**,**,**,**,**,**,8.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Male,100,53,53,51,**,**,**,**,**,**,**,**,7.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Non-Black/Hispanic/Native American,100,34,34,33,**,**,**,**,**,**,**,**,18.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Non-Economically Disadvantaged,100,65,65,61,**,**,**,**,**,**,**,**,8.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Non-English Learners/Transitional 1-4,100,53,53,53,**,**,**,**,**,**,**,**,17
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Non-Students with Disabilities,100,108,108,104,**,**,**,**,**,**,**,**,11.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,Super Subgroup,100,104,104,100,**,**,**,**,**,**,**,**,10
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,6,White,100,23,23,23,**,**,**,**,**,**,**,**,8.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,All Students,100,104,104,104,**,**,**,**,**,**,**,**,23.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Black or African American,100,18,18,18,3,10,4,1,16.6,55.6,22.2,5.6,27.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Black/Hispanic/Native American,100,79,79,79,**,**,**,**,**,**,**,**,21.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Economically Disadvantaged,100,36,36,36,**,**,**,**,**,**,**,**,25
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,English Learner Transitional 1-4,100,21,21,21,**,**,**,**,**,**,**,**,9.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,English Learners,100,38,38,38,**,**,**,**,**,**,**,**,5.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,English Learners with Transitional 1-4,100,59,59,59,**,**,**,**,**,**,**,**,6.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Female,100,51,51,51,**,**,**,**,**,**,**,**,23.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Hispanic,100,61,61,61,**,**,**,**,**,**,**,**,19.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Male,100,53,53,53,**,**,**,**,**,**,**,**,22.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Non-Black/Hispanic/Native American,100,25,25,25,**,**,**,**,**,**,**,**,28
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Non-Economically Disadvantaged,100,68,68,68,**,**,**,**,**,**,**,**,22.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Non-English Learners/Transitional 1-4,100,45,45,45,**,**,**,**,**,**,**,**,44.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Non-Students with Disabilities,100,99,99,99,**,**,**,**,**,**,**,**,24.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,Super Subgroup,100,96,96,96,**,**,**,**,**,**,**,**,21.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,7,White,100,18,18,18,**,**,**,**,**,**,**,**,22.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,All Students,100,110,110,110,**,**,**,**,**,**,**,**,11.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Black or African American,100,17,17,17,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Black/Hispanic/Native American,100,71,71,71,**,**,**,**,**,**,**,**,8.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Economically Disadvantaged,100,36,36,36,**,**,**,**,**,**,**,**,13.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,English Learner Transitional 1-4,100,28,28,28,**,**,**,**,**,**,**,**,7.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,English Learners,100,25,25,25,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,English Learners with Transitional 1-4,100,53,53,53,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Female,100,53,53,53,**,**,**,**,**,**,**,**,9.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Hispanic,100,54,54,54,**,**,**,**,**,**,**,**,11.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Male,100,57,57,57,**,**,**,**,**,**,**,**,14
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Non-Black/Hispanic/Native American,100,39,39,39,**,**,**,**,**,**,**,**,17.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Non-Economically Disadvantaged,100,74,74,74,**,**,**,**,**,**,**,**,10.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Non-English Learners/Transitional 1-4,100,57,57,57,**,**,**,**,**,**,**,**,19.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Non-Students with Disabilities,100,105,105,105,**,**,**,**,**,**,**,**,12.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,Super Subgroup,100,101,101,101,**,**,**,**,**,**,**,**,10.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,8,White,100,32,32,32,**,**,**,**,**,**,**,**,15.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,All Students,100,420,420,416,**,**,**,**,**,**,**,**,16.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,American Indian or Alaska Native,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Asian,100,32,32,31,**,**,**,**,**,**,**,**,32.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Black or African American,100,75,75,75,**,**,**,**,**,**,**,**,16
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Black/Hispanic/Native American,100,292,292,289,**,**,**,**,**,**,**,**,14.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Economically Disadvantaged,100,146,146,146,**,**,**,**,**,**,**,**,15.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,English Learner Transitional 1-4,100,84,84,84,**,**,**,**,**,**,**,**,14.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,English Learners,100,138,138,134,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,English Learners with Transitional 1-4,100,222,222,218,**,**,**,**,**,**,**,**,6.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Female,100,210,210,208,**,**,**,**,**,**,**,**,16.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Hispanic,100,215,215,212,**,**,**,**,**,**,**,**,13.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Male,100,210,210,208,**,**,**,**,**,**,**,**,15.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Non-Black/Hispanic/Native American,100,128,128,127,**,**,**,**,**,**,**,**,20.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Non-Economically Disadvantaged,100,274,274,270,**,**,**,**,**,**,**,**,16.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Non-English Learners/Transitional 1-4,100,198,198,198,**,**,**,**,**,**,**,**,26.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Non-Students with Disabilities,100,397,397,393,**,**,**,**,**,**,**,**,16.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Students with Disabilities,100,23,23,23,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,Super Subgroup,100,386,386,382,**,**,**,**,**,**,**,**,14.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,ELA,All Grades,White,100,96,96,96,**,**,**,**,**,**,**,**,16.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,All Students,100,93,93,93,35,31,22,5,37.6,33.3,23.7,5.4,29
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,American Indian or Alaska Native,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Black or African American,100,13,13,13,5,2,5,1,38.4,15.4,38.5,7.7,46.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Black/Hispanic/Native American,100,63,63,63,25,19,14,5,39.7,30.2,22.2,7.9,30.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Economically Disadvantaged,100,26,26,26,13,7,4,2,50,26.9,15.4,7.7,23.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,English Learner Transitional 1-4,100,17,17,17,1,9,6,1,5.9,52.9,35.3,5.9,41.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,English Learners,100,33,33,33,**,**,**,**,**,**,**,**,15.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,English Learners with Transitional 1-4,100,50,50,50,**,**,**,**,**,**,**,**,24
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Female,100,46,46,46,16,19,8,3,34.8,41.3,17.4,6.5,23.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Hispanic,100,48,48,48,20,15,9,4,41.6,31.3,18.8,8.3,27.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Male,100,47,47,47,**,**,**,**,**,**,**,**,34
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Non-Black/Hispanic/Native American,100,30,30,30,**,**,**,**,**,**,**,**,26.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Non-Economically Disadvantaged,100,67,67,67,**,**,**,**,**,**,**,**,31.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Non-English Learners/Transitional 1-4,100,43,43,43,14,14,12,3,32.5,32.6,27.9,7,34.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Non-Students with Disabilities,100,85,85,85,30,30,20,5,35.3,35.3,23.5,5.9,29.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Students with Disabilities,*,8,8,8,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,Super Subgroup,100,85,85,85,33,28,19,5,38.8,32.9,22.4,5.9,28.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,5,White,100,23,23,23,**,**,**,**,**,**,**,**,26.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,All Students,100,113,113,109,**,**,**,**,**,**,**,**,10.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Asian,100,11,11,10,**,**,**,**,**,**,**,**,40
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Black or African American,100,27,27,27,**,**,**,**,**,**,**,**,7.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Black/Hispanic/Native American,100,79,79,76,**,**,**,**,**,**,**,**,5.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Economically Disadvantaged,100,48,48,48,**,**,**,**,**,**,**,**,18.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,English Learner Transitional 1-4,100,18,18,18,4,10,3,1,22.1,55.6,16.7,5.6,22.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,English Learners,100,42,42,38,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,English Learners with Transitional 1-4,100,60,60,56,**,**,**,**,**,**,**,**,7.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Female,100,60,60,58,**,**,**,**,**,**,**,**,8.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Hispanic,100,52,52,49,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Male,100,53,53,51,**,**,**,**,**,**,**,**,11.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Non-Black/Hispanic/Native American,100,34,34,33,**,**,**,**,**,**,**,**,21.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Non-Economically Disadvantaged,100,65,65,61,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Non-English Learners/Transitional 1-4,100,53,53,53,**,**,**,**,**,**,**,**,13.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Non-Students with Disabilities,100,108,108,104,**,**,**,**,**,**,**,**,10.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,Super Subgroup,100,104,104,100,**,**,**,**,**,**,**,**,9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,6,White,100,23,23,23,**,**,**,**,**,**,**,**,13
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,All Students,100,104,104,104,**,**,**,**,**,**,**,**,22.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Black or African American,100,18,18,18,**,**,**,**,**,**,**,**,38.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Black/Hispanic/Native American,100,79,79,79,**,**,**,**,**,**,**,**,16.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Economically Disadvantaged,100,36,36,36,**,**,**,**,**,**,**,**,22.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,English Learner Transitional 1-4,100,21,21,21,**,**,**,**,**,**,**,**,9.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,English Learners,100,38,38,38,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,English Learners with Transitional 1-4,100,59,59,59,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Female,100,51,51,51,**,**,**,**,**,**,**,**,19.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Hispanic,100,61,61,61,**,**,**,**,**,**,**,**,9.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Male,100,53,53,53,**,**,**,**,**,**,**,**,24.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Non-Black/Hispanic/Native American,100,25,25,25,**,**,**,**,**,**,**,**,40
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Non-Economically Disadvantaged,100,68,68,68,**,**,**,**,**,**,**,**,22.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Non-English Learners/Transitional 1-4,100,45,45,45,**,**,**,**,**,**,**,**,46.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Non-Students with Disabilities,100,99,99,99,**,**,**,**,**,**,**,**,23.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,Super Subgroup,100,96,96,96,**,**,**,**,**,**,**,**,18.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,7,White,100,18,18,18,**,**,**,**,**,**,**,**,38.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,All Students,100,83,83,83,**,**,**,**,**,**,**,**,33.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Asian,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Black or African American,100,12,12,12,**,**,**,**,**,**,**,**,33.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Black/Hispanic/Native American,100,58,58,58,15,23,17,3,25.8,39.7,29.3,5.2,34.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Economically Disadvantaged,100,26,26,26,**,**,**,**,**,**,**,**,34.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,English Learner Transitional 1-4,100,22,22,22,**,**,**,**,**,**,**,**,40.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,English Learners,100,25,25,25,8,13,2,2,32,52,8,8,16
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,English Learners with Transitional 1-4,100,47,47,47,**,**,**,**,**,**,**,**,27.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Female,100,42,42,42,**,**,**,**,**,**,**,**,23.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Hispanic,100,46,46,46,11,19,13,3,23.9,41.3,28.3,6.5,34.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Male,100,41,41,41,4,19,14,4,9.8,46.3,34.1,9.8,43.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Non-Black/Hispanic/Native American,100,25,25,25,**,**,**,**,**,**,**,**,32
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Non-Economically Disadvantaged,100,57,57,57,13,25,16,3,22.7,43.9,28.1,5.3,33.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Non-English Learners/Transitional 1-4,100,36,36,36,6,15,13,2,16.6,41.7,36.1,5.6,41.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Non-Students with Disabilities,100,78,78,78,16,34,24,4,20.5,43.6,30.8,5.1,35.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,Super Subgroup,100,80,80,80,19,34,23,4,23.7,42.5,28.8,5,33.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,8,White,100,24,24,24,**,**,**,**,**,**,**,**,29.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,All Students,100,393,393,389,**,**,**,**,**,**,**,**,22.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,American Indian or Alaska Native,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Asian,100,26,26,25,**,**,**,**,**,**,**,**,40
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Black or African American,100,70,70,70,**,**,**,**,**,**,**,**,27.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Black/Hispanic/Native American,100,279,279,276,**,**,**,**,**,**,**,**,20.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Economically Disadvantaged,100,136,136,136,**,**,**,**,**,**,**,**,23.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,English Learner Transitional 1-4,100,78,78,78,**,**,**,**,**,**,**,**,28.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,English Learners,100,138,138,134,**,**,**,**,**,**,**,**,6.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,English Learners with Transitional 1-4,100,216,216,212,**,**,**,**,**,**,**,**,14.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Female,100,199,199,197,**,**,**,**,**,**,**,**,18.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Hispanic,100,207,207,204,**,**,**,**,**,**,**,**,18.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Male,100,194,194,192,**,**,**,**,**,**,**,**,27.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Non-Black/Hispanic/Native American,100,114,114,113,**,**,**,**,**,**,**,**,29.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Non-Economically Disadvantaged,100,257,257,253,**,**,**,**,**,**,**,**,22.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Non-English Learners/Transitional 1-4,100,177,177,177,**,**,**,**,**,**,**,**,32.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Non-Students with Disabilities,100,370,370,366,**,**,**,**,**,**,**,**,23.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Students with Disabilities,100,23,23,23,**,**,**,**,**,**,**,**,8.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,Super Subgroup,100,365,365,361,**,**,**,**,**,**,**,**,21.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Math,All Grades,White,100,88,88,88,**,**,**,**,**,**,**,**,26.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,All Students,100,93,93,93,**,**,**,**,**,**,**,**,31.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,American Indian or Alaska Native,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Black or African American,100,13,13,13,5,2,4,2,38.4,15.4,30.8,15.4,46.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Black/Hispanic/Native American,100,63,63,63,**,**,**,**,**,**,**,**,31.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Economically Disadvantaged,100,26,26,26,**,**,**,**,**,**,**,**,19.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,English Learner Transitional 1-4,100,17,17,17,3,6,7,1,17.6,35.3,41.2,5.9,47.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,English Learners,100,33,33,33,**,**,**,**,**,**,**,**,6.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,English Learners with Transitional 1-4,100,50,50,50,**,**,**,**,**,**,**,**,20
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Female,100,46,46,46,**,**,**,**,**,**,**,**,32.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Hispanic,100,48,48,48,**,**,**,**,**,**,**,**,29.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Male,100,47,47,47,**,**,**,**,**,**,**,**,29.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Non-Black/Hispanic/Native American,100,30,30,30,**,**,**,**,**,**,**,**,30
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Non-Economically Disadvantaged,100,67,67,67,**,**,**,**,**,**,**,**,35.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Non-English Learners/Transitional 1-4,100,43,43,43,**,**,**,**,**,**,**,**,44.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Non-Students with Disabilities,100,85,85,85,**,**,**,**,**,**,**,**,32.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Students with Disabilities,*,8,8,8,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,Super Subgroup,100,85,85,85,**,**,**,**,**,**,**,**,28.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,5,White,100,23,23,23,**,**,**,**,**,**,**,**,34.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,All Students,100,113,113,109,**,**,**,**,**,**,**,**,18.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Asian,100,11,11,10,**,**,**,**,**,**,**,**,60
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Black or African American,100,27,27,27,**,**,**,**,**,**,**,**,14.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Black/Hispanic/Native American,100,79,79,76,**,**,**,**,**,**,**,**,11.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Economically Disadvantaged,100,48,48,48,**,**,**,**,**,**,**,**,22.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,English Learner Transitional 1-4,100,18,18,18,**,**,**,**,**,**,**,**,27.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,English Learners,100,42,42,38,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,English Learners with Transitional 1-4,100,60,60,56,**,**,**,**,**,**,**,**,8.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Female,100,60,60,58,**,**,**,**,**,**,**,**,12.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Hispanic,100,52,52,49,**,**,**,**,**,**,**,**,10.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Male,100,53,53,51,**,**,**,**,**,**,**,**,25.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Non-Black/Hispanic/Native American,100,34,34,33,**,**,**,**,**,**,**,**,33.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Non-Economically Disadvantaged,100,65,65,61,**,**,**,**,**,**,**,**,14.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Non-English Learners/Transitional 1-4,100,53,53,53,**,**,**,**,**,**,**,**,28.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Non-Students with Disabilities,100,108,108,104,**,**,**,**,**,**,**,**,19.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,Super Subgroup,100,104,104,100,**,**,**,**,**,**,**,**,16
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,6,White,100,23,23,23,**,**,**,**,**,**,**,**,21.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,All Students,100,104,104,104,**,**,**,**,**,**,**,**,44.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Black or African American,100,18,18,18,3,6,8,1,16.7,33.3,44.4,5.6,50
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Black/Hispanic/Native American,100,79,79,79,**,**,**,**,**,**,**,**,38
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Economically Disadvantaged,100,36,36,36,6,14,14,2,16.6,38.9,38.9,5.6,44.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,English Learner Transitional 1-4,100,21,21,21,**,**,**,**,**,**,**,**,47.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,English Learners,100,38,38,38,**,**,**,**,**,**,**,**,18.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,English Learners with Transitional 1-4,100,59,59,59,**,**,**,**,**,**,**,**,28.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Female,100,51,51,51,**,**,**,**,**,**,**,**,39.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Hispanic,100,61,61,61,**,**,**,**,**,**,**,**,34.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Male,100,53,53,53,**,**,**,**,**,**,**,**,49.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Non-Black/Hispanic/Native American,100,25,25,25,**,**,**,**,**,**,**,**,64
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Non-Economically Disadvantaged,100,68,68,68,**,**,**,**,**,**,**,**,44.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Non-English Learners/Transitional 1-4,100,45,45,45,**,**,**,**,**,**,**,**,64.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Non-Students with Disabilities,100,99,99,99,**,**,**,**,**,**,**,**,46.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,Super Subgroup,100,96,96,96,**,**,**,**,**,**,**,**,40.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,7,White,100,18,18,18,**,**,**,**,**,**,**,**,61.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,All Students,100,110,110,110,**,**,**,**,**,**,**,**,33.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Black or African American,100,17,17,17,**,**,**,**,**,**,**,**,35.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Black/Hispanic/Native American,100,71,71,71,**,**,**,**,**,**,**,**,32.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Economically Disadvantaged,100,36,36,36,**,**,**,**,**,**,**,**,38.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,English Learner Transitional 1-4,100,28,28,28,**,**,**,**,**,**,**,**,39.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,English Learners,100,25,25,25,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,English Learners with Transitional 1-4,100,53,53,53,**,**,**,**,**,**,**,**,22.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Female,100,53,53,53,**,**,**,**,**,**,**,**,26.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Hispanic,100,54,54,54,**,**,**,**,**,**,**,**,31.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Male,100,57,57,57,**,**,**,**,**,**,**,**,40.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Non-Black/Hispanic/Native American,100,39,39,39,**,**,**,**,**,**,**,**,35.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Non-Economically Disadvantaged,100,74,74,74,**,**,**,**,**,**,**,**,31.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Non-English Learners/Transitional 1-4,100,57,57,57,**,**,**,**,**,**,**,**,43.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Non-Students with Disabilities,100,105,105,105,**,**,**,**,**,**,**,**,34.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,Super Subgroup,100,101,101,101,**,**,**,**,**,**,**,**,30.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,8,White,100,32,32,32,**,**,**,**,**,**,**,**,34.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,All Students,100,420,420,416,**,**,**,**,**,**,**,**,31.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,American Indian or Alaska Native,*,2,2,2,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Asian,100,32,32,31,**,**,**,**,**,**,**,**,48.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Black or African American,100,75,75,75,**,**,**,**,**,**,**,**,33.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Black/Hispanic/Native American,100,292,292,289,**,**,**,**,**,**,**,**,28.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Economically Disadvantaged,100,146,146,146,**,**,**,**,**,**,**,**,31.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,English Learner Transitional 1-4,100,84,84,84,**,**,**,**,**,**,**,**,40.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,English Learners,100,138,138,134,**,**,**,**,**,**,**,**,7.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,English Learners with Transitional 1-4,100,222,222,218,**,**,**,**,**,**,**,**,20.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Female,100,210,210,208,**,**,**,**,**,**,**,**,26.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Hispanic,100,215,215,212,**,**,**,**,**,**,**,**,26.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Male,100,210,210,208,**,**,**,**,**,**,**,**,36.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Non-Black/Hispanic/Native American,100,128,128,127,**,**,**,**,**,**,**,**,39.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Non-Economically Disadvantaged,100,274,274,270,**,**,**,**,**,**,**,**,31.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Non-English Learners/Transitional 1-4,100,198,198,198,**,**,**,**,**,**,**,**,44.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Non-Students with Disabilities,100,397,397,393,**,**,**,**,**,**,**,**,33.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Students with Disabilities,100,23,23,23,**,**,**,**,**,**,**,**,8.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,Super Subgroup,100,386,386,382,**,**,**,**,**,**,**,**,28.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Science,All Grades,White,100,96,96,96,**,**,**,**,**,**,**,**,36.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,All Students,100,113,113,109,**,**,**,**,**,**,**,**,29.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Asian,100,11,11,10,**,**,**,**,**,**,**,**,70
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Black or African American,100,27,27,27,**,**,**,**,**,**,**,**,29.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Black/Hispanic/Native American,100,79,79,76,**,**,**,**,**,**,**,**,25
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Economically Disadvantaged,100,48,48,48,**,**,**,**,**,**,**,**,35.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,English Learner Transitional 1-4,100,18,18,18,**,**,**,**,**,**,**,**,50
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,English Learners,100,42,42,38,**,**,**,**,**,**,**,**,7.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,English Learners with Transitional 1-4,100,60,60,56,**,**,**,**,**,**,**,**,21.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Female,100,60,60,58,**,**,**,**,**,**,**,**,19
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Hispanic,100,52,52,49,**,**,**,**,**,**,**,**,22.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Male,100,53,53,51,**,**,**,**,**,**,**,**,41.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Non-Black/Hispanic/Native American,100,34,34,33,**,**,**,**,**,**,**,**,39.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Non-Economically Disadvantaged,100,65,65,61,**,**,**,**,**,**,**,**,24.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Non-English Learners/Transitional 1-4,100,53,53,53,**,**,**,**,**,**,**,**,37.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Non-Students with Disabilities,100,108,108,104,**,**,**,**,**,**,**,**,30.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,Super Subgroup,100,104,104,100,**,**,**,**,**,**,**,**,28
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,6,White,100,23,23,23,**,**,**,**,**,**,**,**,26.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,All Students,100,104,104,104,**,**,**,**,**,**,**,**,38.5
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Black or African American,100,18,18,18,5,5,7,1,27.7,27.8,38.9,5.6,44.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Black/Hispanic/Native American,100,79,79,79,**,**,**,**,**,**,**,**,31.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Economically Disadvantaged,100,36,36,36,**,**,**,**,**,**,**,**,36.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,English Learner Transitional 1-4,100,21,21,21,**,**,**,**,**,**,**,**,38.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,English Learners,100,38,38,38,**,**,**,**,**,**,**,**,18.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,English Learners with Transitional 1-4,100,59,59,59,**,**,**,**,**,**,**,**,25.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Female,100,51,51,51,**,**,**,**,**,**,**,**,33.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Hispanic,100,61,61,61,**,**,**,**,**,**,**,**,27.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Male,100,53,53,53,11,19,20,3,20.8,35.8,37.7,5.7,43.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Non-Black/Hispanic/Native American,100,25,25,25,**,**,**,**,**,**,**,**,60
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Non-Economically Disadvantaged,100,68,68,68,**,**,**,**,**,**,**,**,39.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Non-English Learners/Transitional 1-4,100,45,45,45,**,**,**,**,**,**,**,**,55.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Non-Students with Disabilities,100,99,99,99,**,**,**,**,**,**,**,**,40.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,Super Subgroup,100,96,96,96,**,**,**,**,**,**,**,**,35.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,7,White,100,18,18,18,**,**,**,**,**,**,**,**,50
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,All Students,100,110,110,110,**,**,**,**,**,**,**,**,30.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Asian,*,7,7,7,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Black or African American,100,17,17,17,**,**,**,**,**,**,**,**,29.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Black/Hispanic/Native American,100,71,71,71,**,**,**,**,**,**,**,**,29.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Economically Disadvantaged,100,36,36,36,**,**,**,**,**,**,**,**,30.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,English Learner Transitional 1-4,100,28,28,28,**,**,**,**,**,**,**,**,21.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,English Learners,100,25,25,25,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,English Learners with Transitional 1-4,100,53,53,53,**,**,**,**,**,**,**,**,11.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Female,100,53,53,53,**,**,**,**,**,**,**,**,20.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Hispanic,100,54,54,54,**,**,**,**,**,**,**,**,29.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Male,100,57,57,57,**,**,**,**,**,**,**,**,40.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Non-Black/Hispanic/Native American,100,39,39,39,**,**,**,**,**,**,**,**,33.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Non-Economically Disadvantaged,100,74,74,74,**,**,**,**,**,**,**,**,31.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Non-English Learners/Transitional 1-4,100,57,57,57,**,**,**,**,**,**,**,**,49.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Non-Students with Disabilities,100,105,105,105,**,**,**,**,**,**,**,**,32.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Students with Disabilities,*,5,5,5,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,Super Subgroup,100,101,101,101,**,**,**,**,**,**,**,**,27.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,8,White,100,32,32,32,**,**,**,**,**,**,**,**,31.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,All Students,100,327,327,323,**,**,**,**,**,**,**,**,32.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Asian,100,25,25,24,**,**,**,**,**,**,**,**,66.7
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Black or African American,100,62,62,62,**,**,**,**,**,**,**,**,33.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Black/Hispanic/Native American,100,229,229,226,**,**,**,**,**,**,**,**,28.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Economically Disadvantaged,100,120,120,120,**,**,**,**,**,**,**,**,34.2
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,English Learner Transitional 1-4,100,67,67,67,**,**,**,**,**,**,**,**,34.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,English Learners,100,105,105,101,**,**,**,**,**,**,**,**,9.9
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,English Learners with Transitional 1-4,100,172,172,168,**,**,**,**,**,**,**,**,19.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Female,100,164,164,162,**,**,**,**,**,**,**,**,24.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Hispanic,100,167,167,164,**,**,**,**,**,**,**,**,26.8
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Homeless,*,1,1,1,*,*,*,*,*,*,*,*,*
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Male,100,163,163,161,**,**,**,**,**,**,**,**,41.6
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Non-Black/Hispanic/Native American,100,98,98,97,**,**,**,**,**,**,**,**,42.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Non-Economically Disadvantaged,100,207,207,203,**,**,**,**,**,**,**,**,32
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Non-English Learners/Transitional 1-4,100,155,155,155,**,**,**,**,**,**,**,**,47.1
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Non-Students with Disabilities,100,312,312,308,**,**,**,**,**,**,**,**,34.4
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Students with Disabilities,100,15,15,15,**,**,**,**,**,**,**,**,**
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,Super Subgroup,100,301,301,297,**,**,**,**,**,**,**,**,30.3
+2023,190,Davidson County,8013,LEAD Southeast,TNReady,Social Studies,All Grades,White,100,73,73,73,**,**,**,**,**,**,**,**,34.2
